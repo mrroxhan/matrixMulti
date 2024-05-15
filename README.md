@@ -5,6 +5,9 @@ change the matrix elements in main function !
 
 
 given matrix is 
+
         {2, 0, 1}
+        
         {0, 1, 2}
+        
         {1, 2, 0}
